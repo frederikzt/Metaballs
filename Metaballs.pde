@@ -19,7 +19,7 @@ void draw() {
         sum += 100 * b.r / d;
       }
       color col;
-      if (sum > 200) col = color(0, 255, 0);
+      if (sum > 200) col = color(0, 0, 255);
       else col = color(0);
 
 
